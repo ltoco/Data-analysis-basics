@@ -1,4 +1,4 @@
 Data analysis basic concepts and basics of Numpy, Pandas.
 
-Click the icon to run the jupyter notebooks on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltoco/Data-analysis-basics/master)
+Run the jupyter notebooks on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltoco/Data-analysis-basics/master)
 
